@@ -1,0 +1,1 @@
+Unzip "APPLE.ZIP" to get the binary file containing all the badapple frames.
